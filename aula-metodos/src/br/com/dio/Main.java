@@ -1,6 +1,6 @@
 package br.com.dio;
 
-//Classe de exemplo para o exercício da aula 01 de métodos
+//Classe de exemplo para o exercício da aula de métodos
 
 public class Main {
 
@@ -14,7 +14,7 @@ public class Main {
 		Calculadora.divisao(5, 2.5);
 
 		//Mensagem
-		System.out.println("Exercício calculadora");
+		System.out.println("Exercício mensagem");
 		Mensagem.obterMensagem(9);
 		Mensagem.obterMensagem(14);
 		Mensagem.obterMensagem(1);

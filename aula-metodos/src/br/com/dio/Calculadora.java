@@ -1,6 +1,6 @@
 package br.com.dio;
 
-//Classe de exemplo para o exercício da aula 01 de métodos
+//Classe de exemplo para o exercício da aula de métodos
 
 public class Calculadora {
 	

@@ -1,6 +1,6 @@
 package br.com.dio;
 
-//Classe de exemplo para o exercício da aula 01 de métodos
+//Classe de exemplo para o exercício da aula de métodos
 
 public class Mensagem {
 
@@ -48,11 +48,11 @@ public class Mensagem {
 	}
 	
 	public static void mensagemBoaTarde() {
-		System.out.println("Bom tarde!");
+		System.out.println("Boa tarde!");
 	}
 	
 	public static void mensagemBoaNoite() {
-		System.out.println("Bom noite!");
+		System.out.println("Boa noite!");
 	}
 	
 }
